@@ -73,7 +73,6 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/atharva22/"><img src="https://img.shields.io/badge/-Atharva%20Patade-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:atharva.patade11@gmail.com"><img src="https://img.shields.io/badge/-atharva.patade11@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="atharvapatade25@outlook.com"><img src="https://img.shields.io/badge/-atharva.patade11@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://github.com/Atharva2223"><img src="https://img.shields.io/badge/-@Atharva2223-181717?style=flat&logo=GitHub&logoColor=white"/></a>
 </p>
